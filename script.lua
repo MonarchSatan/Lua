@@ -1,1 +1,1 @@
-doLog("Hello?")
+doLog("Hello Kontol?")
