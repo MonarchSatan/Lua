@@ -1,0 +1,2 @@
+# Lua
+GentaHax Gambling Command
